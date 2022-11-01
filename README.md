@@ -1,4 +1,4 @@
-# 21 MERN: Book Search Engine
+# Book Search Engine
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Your Task
